@@ -1,4 +1,4 @@
-this 
+no
 game
 is 
 good
